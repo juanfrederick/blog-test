@@ -1,0 +1,119 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/id/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "title": "The Shawshank Redemption",
+      "date": "1994",
+      "text": "Saya adalah orang yang tidak pernah bahagia karena saya sebenarnya",
+      "comment": [
+        {
+          "id": 1,
+          "name": "Juan",
+          "comment": "Wah tulisannya keren banget saya mau menjadi penulis yang hebat seperti kamu",
+          "date": "2023"
+        },
+        {
+          "id": 2,
+          "name": "Juni",
+          "comment": "mantap bang",
+          "date": "30 May 2023"
+        },
+        {
+          "id": 3,
+          "name": "Juan Frederick",
+          "comment": "Wah kjeren",
+          "date": "30 May 2023"
+        },
+        {
+          "id": 4,
+          "name": "siska",
+          "comment": "hebat ya ternyata bisa gitu",
+          "date": "30 May 2023"
+        },
+        {
+          "id": 5,
+          "name": "Jeni",
+          "comment": "Emang Hebat betul",
+          "date": "5 June 2023"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+      "title": "The Godfather",
+      "date": "1972",
+      "text": "Saya adalah orang yang tidak pernah bahagia karena saya sebenarnya",
+      "comment": []
+    },
+    {
+      "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg",
+      "title": "The Dark Knight",
+      "date": "2008",
+      "text": "Saya adalah orang yang tidak pernah bahagia karena saya sebenarnya",
+      "comment": []
+    },
+    {
+      "id": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+      "title": "Pulp Fiction",
+      "date": "1994",
+      "text": "Saya adalah orang yang tidak pernah bahagia karena saya sebenarnya",
+      "comment": []
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1674574124340-c00cc2dae99c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Cerita Cinta",
+      "text": "Cinta adalah saat di mana semua hal terasa berubah seketika. Karena dengan cinta kita tidak dapat melakukan hal yang tidak biasa kita lakukan. Kelakuan, sikap, dan kebiasaan akan berubah drastis. Oleh sebab itu.",
+      "date": "30 May 2023",
+      "comment": [],
+      "id": 5
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1578549651688-904046d4c9ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Balap Liar",
+      "text": "Waktu saya SMA, saya sangat suka balap dengan teman saya. Kompetisi balap ini tidak mendapatkan apa apa sebenaranya, tetapi karena hobby hujan dan badai pun kami bantai.\n\nPada suatu hari saya dan teman saya.",
+      "date": "30 May 2023",
+      "comment": [
+        {
+          "id": 1,
+          "name": "Juan",
+          "comment": "Hahahah saya juga pernah kejadian kyk gitu",
+          "date": "30 May 2023"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "image": "test",
+      "title": "Test",
+      "text": "test",
+      "date": "6 June 2023",
+      "comment": [],
+      "id": 7
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Kantor",
+      "text": "Nongki bareng teman kantor",
+      "date": "6 June 2023",
+      "comment": [
+        {
+          "id": 1,
+          "name": "Juan Frederick",
+          "comment": "Mantap cui",
+          "date": "6 June 2023"
+        },
+        {
+          "id": 2,
+          "name": "Kima",
+          "comment": "keren",
+          "date": "6 June 2023"
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
